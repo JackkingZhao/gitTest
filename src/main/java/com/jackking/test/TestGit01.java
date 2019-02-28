@@ -9,4 +9,7 @@ public class TestGit01 {
     public TestGit01() {
         System.out.println("3、修改文件并提交修改到本地版本库；");
     }
+    public TestGit01(int i) {
+        System.out.println("有餐构造函数");
+    }
 }
