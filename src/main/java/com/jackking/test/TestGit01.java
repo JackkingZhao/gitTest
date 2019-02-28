@@ -6,4 +6,7 @@ public class TestGit01 {
         System.out.println("hello");
     }
 
+    public TestGit01() {
+        System.out.println("3、修改文件并提交修改到本地版本库；");
+    }
 }
